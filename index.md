@@ -106,7 +106,7 @@ If you _do_ make a mess, use a towel to clean it up!
 ![RedPanda](https://i.media.fi/incoming/plgq9o-Sieppaa.JPG/alternates/FREE_1440/Sieppaa.JPG)
 
 ## Exercise 4
-```C#
+``` C#
 public class Person{
   private string name;
   private int age;
